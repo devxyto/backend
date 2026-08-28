@@ -3,4 +3,5 @@ flask-cors
 bcrypt
 requests
 pycryptodome
+colorama
 gunicorn
