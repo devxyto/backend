@@ -4,4 +4,5 @@ bcrypt
 requests
 pycryptodome
 colorama
+rich
 gunicorn
